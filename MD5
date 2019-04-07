@@ -1,0 +1,10 @@
+34b640d02dba09a3f62ce48387c41bf2 *DESCRIPTION
+c2f033bd6c5311e210f7ec975cb27a94 *NAMESPACE
+68e8a3cc4b2b3569e38f760c9d1625b0 *R/countToFPKM-internal.R
+fe25ea0f9606c950b8f548607d2a5e56 *build/partial.rdb
+4d59108c755c39bf381883619aae60f7 *inst/extdata/Biomart.annotations.hg38.txt
+d2d67bab2ff4ddf2571025a2a5afbc40 *inst/extdata/RNA-seq.read.counts.csv
+d39313bbd7244f366fc9f4beb35c4ea4 *inst/extdata/RNA-seq.samples.metrics.txt
+86a7cea062aa0b051a27d0c7e6620c38 *inst/extdata/Test.log.fpkm.png
+5ab642c027e562173715d5f35da62ae4 *man/fpkm.Rd
+6af9e3b3b3b688d3dc5f504b7ccf5a8c *man/fpkmheatmap.Rd
